@@ -1,1 +1,1 @@
-# GCD
+# GCD calculator
